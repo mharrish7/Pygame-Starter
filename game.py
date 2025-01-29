@@ -1,6 +1,6 @@
 import pygame 
 from settings import  *
-from state2 import * 
+from state import * 
 import sys 
 
 

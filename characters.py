@@ -32,6 +32,31 @@ class NPC(pygame.sprite.Sprite):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class Player(NPC):
     def __init__(self,game,scene,group,pos,name):
         super().__init__(game,scene,group,pos,name)
